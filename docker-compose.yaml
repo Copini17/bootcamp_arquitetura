@@ -1,0 +1,61 @@
+version: '3.8'
+
+services:
+  mongo_master:
+    image: mongo:latest
+    hostname: mongo_master
+    container_name: mongo_master
+    restart: always
+    ports:
+      - "27017:27017"
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: admin
+      MONGO_INITDB_ROOT_PASSWORD: admin
+    # command: ["mongod", "--replSet", "rs0"]
+    volumes:
+      - mongo_data_1:/data/db
+
+  mongo_replica_01:
+    image: mongo:latest
+    container_name: mongo_replica_01
+    hostname: mongo_replica_01
+    restart: always
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: admin
+      MONGO_INITDB_ROOT_PASSWORD: admin
+    # command: ["mongod", "--replSet", "rs0"]
+    volumes:
+      - mongo_data_2:/data/db
+
+  mongo_replica_02:
+    image: mongo:latest
+    container_name: mongo_replica_02
+    hostname: mongo_replica_02
+    restart: always
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: admin
+      MONGO_INITDB_ROOT_PASSWORD: admin
+    # command: ["mongod", "--replSet", "rs0"]
+    volumes:
+      - mongo_data_3:/data/db
+
+  mongosetup:
+    image: mongo:latest
+    restart: no
+    depends_on:
+      - mongo_master
+      - mongo_replica_01
+      - mongo_replica_02
+    entrypoint: ["bash", "-c", "sleep 5 && bash /initdb/init_mongo.sh"]
+    volumes:
+      - ./db_init/init_mongo.sh:/initdb/init_mongo.sh
+      - ./data/col_clients.json:/data/col_clients.json
+      - ./data/col_orders.json:/data/col_orders.json
+      - ./data/col_product_category.json:/data/col_product_category.json
+      - ./data/col_products.json:/data/col_products.json
+      - ./data/col_suppliers.json:/data/col_suppliers.json
+
+volumes:
+  mongo_data_1:
+  mongo_data_2:
+  mongo_data_3:

@@ -1,0 +1,102 @@
+[
+    {
+        "_id": "CAT1",
+        "category_name": "Category 1",
+        "category_description": "Description for Category 1"
+    },
+    {
+        "_id": "CAT2",
+        "category_name": "Category 2",
+        "category_description": "Description for Category 2"
+    },
+    {
+        "_id": "CAT3",
+        "category_name": "Category 3",
+        "category_description": "Description for Category 3"
+    },
+    {
+        "_id": "CAT4",
+        "category_name": "Category 4",
+        "category_description": "Description for Category 4"
+    },
+    {
+        "_id": "CAT5",
+        "category_name": "Category 5",
+        "category_description": "Description for Category 5"
+    },
+    {
+        "_id": "CAT6",
+        "category_name": "Category 6",
+        "category_description": "Description for Category 6"
+    },
+    {
+        "_id": "CAT7",
+        "category_name": "Category 7",
+        "category_description": "Description for Category 7"
+    },
+    {
+        "_id": "CAT8",
+        "category_name": "Category 8",
+        "category_description": "Description for Category 8"
+    },
+    {
+        "_id": "CAT9",
+        "category_name": "Category 9",
+        "category_description": "Description for Category 9"
+    },
+    {
+        "_id": "CAT10",
+        "category_name": "Category 10",
+        "category_description": "Description for Category 10"
+    },
+    {
+        "_id": "CAT11",
+        "category_name": "Category 11",
+        "category_description": "Description for Category 11"
+    },
+    {
+        "_id": "CAT12",
+        "category_name": "Category 12",
+        "category_description": "Description for Category 12"
+    },
+    {
+        "_id": "CAT13",
+        "category_name": "Category 13",
+        "category_description": "Description for Category 13"
+    },
+    {
+        "_id": "CAT14",
+        "category_name": "Category 14",
+        "category_description": "Description for Category 14"
+    },
+    {
+        "_id": "CAT15",
+        "category_name": "Category 15",
+        "category_description": "Description for Category 15"
+    },
+    {
+        "_id": "CAT16",
+        "category_name": "Category 16",
+        "category_description": "Description for Category 16"
+    },
+    {
+        "_id": "CAT17",
+        "category_name": "Category 17",
+        "category_description": "Description for Category 17"
+    },
+    {
+        "_id": "CAT18",
+        "category_name": "Category 18",
+        "category_description": "Description for Category 18"
+    },
+    {
+        "_id": "CAT19",
+        "category_name": "Category 19",
+        "category_description": "Description for Category 19"
+    },
+    {
+        "_id": "CAT20",
+        "category_name": "Category 20",
+        "category_description": "Description for Category 20"
+    }
+]

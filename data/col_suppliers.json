@@ -1,0 +1,602 @@
+[
+    {
+        "_id": "SUP1",
+        "supplier_name": "Supplier 1",
+        "supplier_address": {
+            "supplier_street": "Street 108",
+            "supplier_city": "Sao Paulo",
+            "supplier_state": "SP"
+        },
+        "supplier_created_date": "2019-09-03T00:00:00",
+        "is_active": true,
+        "supplier_email": "supplier1@email.com"
+    },
+    {
+        "_id": "SUP2",
+        "supplier_name": "Supplier 2",
+        "supplier_address": {
+            "supplier_street": "Street 434",
+            "supplier_city": "Sao Paulo",
+            "supplier_state": "SP"
+        },
+        "supplier_created_date": "2018-02-06T00:00:00",
+        "is_active": true,
+        "supplier_email": "supplier2@email.com"
+    },
+    {
+        "_id": "SUP3",
+        "supplier_name": "Supplier 3",
+        "supplier_address": {
+            "supplier_street": "Street 343",
+            "supplier_city": "Sao Paulo",
+            "supplier_state": "SP"
+        },
+        "supplier_created_date": "2017-05-31T00:00:00",
+        "is_active": false,
+        "supplier_email": "supplier3@email.com"
+    },
+    {
+        "_id": "SUP4",
+        "supplier_name": "Supplier 4",
+        "supplier_address": {
+            "supplier_street": "Street 454",
+            "supplier_city": "Sao Paulo",
+            "supplier_state": "SP"
+        },
+        "supplier_created_date": "2022-08-22T00:00:00",
+        "is_active": false,
+        "supplier_email": "supplier4@email.com"
+    },
+    {
+        "_id": "SUP5",
+        "supplier_name": "Supplier 5",
+        "supplier_address": {
+            "supplier_street": "Street 310",
+            "supplier_city": "Sao Paulo",
+            "supplier_state": "SP"
+        },
+        "supplier_created_date": "2016-03-16T00:00:00",
+        "is_active": true,
+        "supplier_email": "supplier5@email.com"
+    },
+    {
+        "_id": "SUP6",
+        "supplier_name": "Supplier 6",
+        "supplier_address": {
+            "supplier_street": "Street 368",
+            "supplier_city": "Sao Paulo",
+            "supplier_state": "SP"
+        },
+        "supplier_created_date": "2018-12-02T00:00:00",
+        "is_active": true,
+        "supplier_email": "supplier6@email.com"
+    },
+    {
+        "_id": "SUP7",
+        "supplier_name": "Supplier 7",
+        "supplier_address": {
+            "supplier_street": "Street 20",
+            "supplier_city": "Sao Paulo",
+            "supplier_state": "SP"
+        },
+        "supplier_created_date": "2015-05-06T00:00:00",
+        "is_active": true,
+        "supplier_email": "supplier7@email.com"
+    },
+    {
+        "_id": "SUP8",
+        "supplier_name": "Supplier 8",
+        "supplier_address": {
+            "supplier_street": "Street 264",
+            "supplier_city": "Sao Paulo",
+            "supplier_state": "SP"
+        },
+        "supplier_created_date": "2020-01-25T00:00:00",
+        "is_active": true,
+        "supplier_email": "supplier8@email.com"
+    },
+    {
+        "_id": "SUP9",
+        "supplier_name": "Supplier 9",
+        "supplier_address": {
+            "supplier_street": "Street 203",
+            "supplier_city": "Sao Paulo",
+            "supplier_state": "SP"
+        },
+        "supplier_created_date": "2022-06-15T00:00:00",
+        "is_active": true,
+        "supplier_email": "supplier9@email.com"
+    },
+    {
+        "_id": "SUP10",
+        "supplier_name": "Supplier 10",
+        "supplier_address": {
+            "supplier_street": "Street 9",
+            "supplier_city": "Sao Paulo",
+            "supplier_state": "SP"
+        },
+        "supplier_created_date": "2018-10-20T00:00:00",
+        "is_active": true,
+        "supplier_email": "supplier10@email.com"
+    },
+    {
+        "_id": "SUP11",
+        "supplier_name": "Supplier 11",
+        "supplier_address": {
+            "supplier_street": "Street 497",
+            "supplier_city": "Sao Paulo",
+            "supplier_state": "SP"
+        },
+        "supplier_created_date": "2021-10-29T00:00:00",
+        "is_active": false,
+        "supplier_email": "supplier11@email.com"
+    },
+    {
+        "_id": "SUP12",
+        "supplier_name": "Supplier 12",
+        "supplier_address": {
+            "supplier_street": "Street 31",
+            "supplier_city": "Sao Paulo",
+            "supplier_state": "SP"
+        },
+        "supplier_created_date": "2018-08-21T00:00:00",
+        "is_active": true,
+        "supplier_email": "supplier12@email.com"
+    },
+    {
+        "_id": "SUP13",
+        "supplier_name": "Supplier 13",
+        "supplier_address": {
+            "supplier_street": "Street 328",
+            "supplier_city": "Sao Paulo",
+            "supplier_state": "SP"
+        },
+        "supplier_created_date": "2017-03-29T00:00:00",
+        "is_active": true,
+        "supplier_email": "supplier13@email.com"
+    },
+    {
+        "_id": "SUP14",
+        "supplier_name": "Supplier 14",
+        "supplier_address": {
+            "supplier_street": "Street 56",
+            "supplier_city": "Sao Paulo",
+            "supplier_state": "SP"
+        },
+        "supplier_created_date": "2021-08-08T00:00:00",
+        "is_active": true,
+        "supplier_email": "supplier14@email.com"
+    },
+    {
+        "_id": "SUP15",
+        "supplier_name": "Supplier 15",
+        "supplier_address": {
+            "supplier_street": "Street 207",
+            "supplier_city": "Sao Paulo",
+            "supplier_state": "SP"
+        },
+        "supplier_created_date": "2020-09-05T00:00:00",
+        "is_active": false,
+        "supplier_email": "supplier15@email.com"
+    },
+    {
+        "_id": "SUP16",
+        "supplier_name": "Supplier 16",
+        "supplier_address": {
+            "supplier_street": "Street 451",
+            "supplier_city": "Sao Paulo",
+            "supplier_state": "SP"
+        },
+        "supplier_created_date": "2016-07-06T00:00:00",
+        "is_active": true,
+        "supplier_email": "supplier16@email.com"
+    },
+    {
+        "_id": "SUP17",
+        "supplier_name": "Supplier 17",
+        "supplier_address": {
+            "supplier_street": "Street 220",
+            "supplier_city": "Sao Paulo",
+            "supplier_state": "SP"
+        },
+        "supplier_created_date": "2015-04-25T00:00:00",
+        "is_active": true,
+        "supplier_email": "supplier17@email.com"
+    },
+    {
+        "_id": "SUP18",
+        "supplier_name": "Supplier 18",
+        "supplier_address": {
+            "supplier_street": "Street 169",
+            "supplier_city": "Sao Paulo",
+            "supplier_state": "SP"
+        },
+        "supplier_created_date": "2023-02-24T00:00:00",
+        "is_active": true,
+        "supplier_email": "supplier18@email.com"
+    },
+    {
+        "_id": "SUP19",
+        "supplier_name": "Supplier 19",
+        "supplier_address": {
+            "supplier_street": "Street 23",
+            "supplier_city": "Sao Paulo",
+            "supplier_state": "SP"
+        },
+        "supplier_created_date": "2015-12-08T00:00:00",
+        "is_active": false,
+        "supplier_email": "supplier19@email.com"
+    },
+    {
+        "_id": "SUP20",
+        "supplier_name": "Supplier 20",
+        "supplier_address": {
+            "supplier_street": "Street 115",
+            "supplier_city": "Sao Paulo",
+            "supplier_state": "SP"
+        },
+        "supplier_created_date": "2019-06-05T00:00:00",
+        "is_active": false,
+        "supplier_email": "supplier20@email.com"
+    },
+    {
+        "_id": "SUP21",
+        "supplier_name": "Supplier 21",
+        "supplier_address": {
+            "supplier_street": "Street 467",
+            "supplier_city": "Sao Paulo",
+            "supplier_state": "SP"
+        },
+        "supplier_created_date": "2016-09-02T00:00:00",
+        "is_active": false,
+        "supplier_email": "supplier21@email.com"
+    },
+    {
+        "_id": "SUP22",
+        "supplier_name": "Supplier 22",
+        "supplier_address": {
+            "supplier_street": "Street 295",
+            "supplier_city": "Sao Paulo",
+            "supplier_state": "SP"
+        },
+        "supplier_created_date": "2017-04-17T00:00:00",
+        "is_active": true,
+        "supplier_email": "supplier22@email.com"
+    },
+    {
+        "_id": "SUP23",
+        "supplier_name": "Supplier 23",
+        "supplier_address": {
+            "supplier_street": "Street 164",
+            "supplier_city": "Sao Paulo",
+            "supplier_state": "SP"
+        },
+        "supplier_created_date": "2016-12-08T00:00:00",
+        "is_active": false,
+        "supplier_email": "supplier23@email.com"
+    },
+    {
+        "_id": "SUP24",
+        "supplier_name": "Supplier 24",
+        "supplier_address": {
+            "supplier_street": "Street 298",
+            "supplier_city": "Sao Paulo",
+            "supplier_state": "SP"
+        },
+        "supplier_created_date": "2015-03-11T00:00:00",
+        "is_active": true,
+        "supplier_email": "supplier24@email.com"
+    },
+    {
+        "_id": "SUP25",
+        "supplier_name": "Supplier 25",
+        "supplier_address": {
+            "supplier_street": "Street 256",
+            "supplier_city": "Sao Paulo",
+            "supplier_state": "SP"
+        },
+        "supplier_created_date": "2022-10-23T00:00:00",
+        "is_active": true,
+        "supplier_email": "supplier25@email.com"
+    },
+    {
+        "_id": "SUP26",
+        "supplier_name": "Supplier 26",
+        "supplier_address": {
+            "supplier_street": "Street 421",
+            "supplier_city": "Sao Paulo",
+            "supplier_state": "SP"
+        },
+        "supplier_created_date": "2021-08-04T00:00:00",
+        "is_active": true,
+        "supplier_email": "supplier26@email.com"
+    },
+    {
+        "_id": "SUP27",
+        "supplier_name": "Supplier 27",
+        "supplier_address": {
+            "supplier_street": "Street 12",
+            "supplier_city": "Sao Paulo",
+            "supplier_state": "SP"
+        },
+        "supplier_created_date": "2022-05-12T00:00:00",
+        "is_active": false,
+        "supplier_email": "supplier27@email.com"
+    },
+    {
+        "_id": "SUP28",
+        "supplier_name": "Supplier 28",
+        "supplier_address": {
+            "supplier_street": "Street 85",
+            "supplier_city": "Sao Paulo",
+            "supplier_state": "SP"
+        },
+        "supplier_created_date": "2017-02-07T00:00:00",
+        "is_active": true,
+        "supplier_email": "supplier28@email.com"
+    },
+    {
+        "_id": "SUP29",
+        "supplier_name": "Supplier 29",
+        "supplier_address": {
+            "supplier_street": "Street 164",
+            "supplier_city": "Sao Paulo",
+            "supplier_state": "SP"
+        },
+        "supplier_created_date": "2017-01-27T00:00:00",
+        "is_active": true,
+        "supplier_email": "supplier29@email.com"
+    },
+    {
+        "_id": "SUP30",
+        "supplier_name": "Supplier 30",
+        "supplier_address": {
+            "supplier_street": "Street 55",
+            "supplier_city": "Sao Paulo",
+            "supplier_state": "SP"
+        },
+        "supplier_created_date": "2022-01-11T00:00:00",
+        "is_active": true,
+        "supplier_email": "supplier30@email.com"
+    },
+    {
+        "_id": "SUP31",
+        "supplier_name": "Supplier 31",
+        "supplier_address": {
+            "supplier_street": "Street 383",
+            "supplier_city": "Sao Paulo",
+            "supplier_state": "SP"
+        },
+        "supplier_created_date": "2019-12-22T00:00:00",
+        "is_active": false,
+        "supplier_email": "supplier31@email.com"
+    },
+    {
+        "_id": "SUP32",
+        "supplier_name": "Supplier 32",
+        "supplier_address": {
+            "supplier_street": "Street 34",
+            "supplier_city": "Sao Paulo",
+            "supplier_state": "SP"
+        },
+        "supplier_created_date": "2018-06-09T00:00:00",
+        "is_active": true,
+        "supplier_email": "supplier32@email.com"
+    },
+    {
+        "_id": "SUP33",
+        "supplier_name": "Supplier 33",
+        "supplier_address": {
+            "supplier_street": "Street 250",
+            "supplier_city": "Sao Paulo",
+            "supplier_state": "SP"
+        },
+        "supplier_created_date": "2016-01-23T00:00:00",
+        "is_active": false,
+        "supplier_email": "supplier33@email.com"
+    },
+    {
+        "_id": "SUP34",
+        "supplier_name": "Supplier 34",
+        "supplier_address": {
+            "supplier_street": "Street 184",
+            "supplier_city": "Sao Paulo",
+            "supplier_state": "SP"
+        },
+        "supplier_created_date": "2015-10-19T00:00:00",
+        "is_active": false,
+        "supplier_email": "supplier34@email.com"
+    },
+    {
+        "_id": "SUP35",
+        "supplier_name": "Supplier 35",
+        "supplier_address": {
+            "supplier_street": "Street 125",
+            "supplier_city": "Sao Paulo",
+            "supplier_state": "SP"
+        },
+        "supplier_created_date": "2022-07-02T00:00:00",
+        "is_active": true,
+        "supplier_email": "supplier35@email.com"
+    },
+    {
+        "_id": "SUP36",
+        "supplier_name": "Supplier 36",
+        "supplier_address": {
+            "supplier_street": "Street 286",
+            "supplier_city": "Sao Paulo",
+            "supplier_state": "SP"
+        },
+        "supplier_created_date": "2020-05-08T00:00:00",
+        "is_active": true,
+        "supplier_email": "supplier36@email.com"
+    },
+    {
+        "_id": "SUP37",
+        "supplier_name": "Supplier 37",
+        "supplier_address": {
+            "supplier_street": "Street 164",
+            "supplier_city": "Sao Paulo",
+            "supplier_state": "SP"
+        },
+        "supplier_created_date": "2018-07-11T00:00:00",
+        "is_active": true,
+        "supplier_email": "supplier37@email.com"
+    },
+    {
+        "_id": "SUP38",
+        "supplier_name": "Supplier 38",
+        "supplier_address": {
+            "supplier_street": "Street 264",
+            "supplier_city": "Sao Paulo",
+            "supplier_state": "SP"
+        },
+        "supplier_created_date": "2023-09-17T00:00:00",
+        "is_active": false,
+        "supplier_email": "supplier38@email.com"
+    },
+    {
+        "_id": "SUP39",
+        "supplier_name": "Supplier 39",
+        "supplier_address": {
+            "supplier_street": "Street 369",
+            "supplier_city": "Sao Paulo",
+            "supplier_state": "SP"
+        },
+        "supplier_created_date": "2016-11-12T00:00:00",
+        "is_active": true,
+        "supplier_email": "supplier39@email.com"
+    },
+    {
+        "_id": "SUP40",
+        "supplier_name": "Supplier 40",
+        "supplier_address": {
+            "supplier_street": "Street 375",
+            "supplier_city": "Sao Paulo",
+            "supplier_state": "SP"
+        },
+        "supplier_created_date": "2019-05-27T00:00:00",
+        "is_active": false,
+        "supplier_email": "supplier40@email.com"
+    },
+    {
+        "_id": "SUP41",
+        "supplier_name": "Supplier 41",
+        "supplier_address": {
+            "supplier_street": "Street 245",
+            "supplier_city": "Sao Paulo",
+            "supplier_state": "SP"
+        },
+        "supplier_created_date": "2015-10-21T00:00:00",
+        "is_active": false,
+        "supplier_email": "supplier41@email.com"
+    },
+    {
+        "_id": "SUP42",
+        "supplier_name": "Supplier 42",
+        "supplier_address": {
+            "supplier_street": "Street 48",
+            "supplier_city": "Sao Paulo",
+            "supplier_state": "SP"
+        },
+        "supplier_created_date": "2016-01-09T00:00:00",
+        "is_active": false,
+        "supplier_email": "supplier42@email.com"
+    },
+    {
+        "_id": "SUP43",
+        "supplier_name": "Supplier 43",
+        "supplier_address": {
+            "supplier_street": "Street 78",
+            "supplier_city": "Sao Paulo",
+            "supplier_state": "SP"
+        },
+        "supplier_created_date": "2023-03-17T00:00:00",
+        "is_active": false,
+        "supplier_email": "supplier43@email.com"
+    },
+    {
+        "_id": "SUP44",
+        "supplier_name": "Supplier 44",
+        "supplier_address": {
+            "supplier_street": "Street 114",
+            "supplier_city": "Sao Paulo",
+            "supplier_state": "SP"
+        },
+        "supplier_created_date": "2021-04-14T00:00:00",
+        "is_active": true,
+        "supplier_email": "supplier44@email.com"
+    },
+    {
+        "_id": "SUP45",
+        "supplier_name": "Supplier 45",
+        "supplier_address": {
+            "supplier_street": "Street 59",
+            "supplier_city": "Sao Paulo",
+            "supplier_state": "SP"
+        },
+        "supplier_created_date": "2022-10-27T00:00:00",
+        "is_active": true,
+        "supplier_email": "supplier45@email.com"
+    },
+    {
+        "_id": "SUP46",
+        "supplier_name": "Supplier 46",
+        "supplier_address": {
+            "supplier_street": "Street 78",
+            "supplier_city": "Sao Paulo",
+            "supplier_state": "SP"
+        },
+        "supplier_created_date": "2023-12-05T00:00:00",
+        "is_active": true,
+        "supplier_email": "supplier46@email.com"
+    },
+    {
+        "_id": "SUP47",
+        "supplier_name": "Supplier 47",
+        "supplier_address": {
+            "supplier_street": "Street 155",
+            "supplier_city": "Sao Paulo",
+            "supplier_state": "SP"
+        },
+        "supplier_created_date": "2022-10-26T00:00:00",
+        "is_active": false,
+        "supplier_email": "supplier47@email.com"
+    },
+    {
+        "_id": "SUP48",
+        "supplier_name": "Supplier 48",
+        "supplier_address": {
+            "supplier_street": "Street 59",
+            "supplier_city": "Sao Paulo",
+            "supplier_state": "SP"
+        },
+        "supplier_created_date": "2020-10-15T00:00:00",
+        "is_active": false,
+        "supplier_email": "supplier48@email.com"
+    },
+    {
+        "_id": "SUP49",
+        "supplier_name": "Supplier 49",
+        "supplier_address": {
+            "supplier_street": "Street 414",
+            "supplier_city": "Sao Paulo",
+            "supplier_state": "SP"
+        },
+        "supplier_created_date": "2018-02-06T00:00:00",
+        "is_active": false,
+        "supplier_email": "supplier49@email.com"
+    },
+    {
+        "_id": "SUP50",
+        "supplier_name": "Supplier 50",
+        "supplier_address": {
+            "supplier_street": "Street 31",
+            "supplier_city": "Sao Paulo",
+            "supplier_state": "SP"
+        },
+        "supplier_created_date": "2019-10-22T00:00:00",
+        "is_active": true,
+        "supplier_email": "supplier50@email.com"
+    }
+]
